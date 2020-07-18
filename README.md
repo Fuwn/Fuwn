@@ -13,8 +13,8 @@
 *i don't think this is accurate...*
 
 <p align="center">
-  <a href="https://github.com/8cy"><img src="https://github.com/8cy/8cy/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-  <a href="https://discord.com/users/sin#1337"><img src="https://github.com/8cy/8cy/blob/master/assets/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/__cpuid"><img src="https://github.com/8cy/8cy/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="https://kyzer.co"><img src="https://github.com/8cy/8cy/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
+  <a href="https://github.com/8cy" target="_blank"><img src="https://github.com/8cy/8cy/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+  <a href="https://discord.com/users/sin#1337" target="_blank"><img src="https://github.com/8cy/8cy/blob/master/assets/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/__cpuid" target="_blank"><img src="https://github.com/8cy/8cy/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://kyzer.co" target="_blank"><img src="https://github.com/8cy/8cy/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
