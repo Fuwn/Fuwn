@@ -10,7 +10,7 @@
 
 ![8cy's github](https://github-readme-stats.vercel.app/api?username=8cy&show_icons=true&hide_border=true)
 
-*i don't think this is accurate...*
+*just imagine if this showed private commits as well...*
 
 <p align="center">
   <a href="https://github.com/8cy" target="_blank"><img src="https://github.com/8cy/8cy/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
