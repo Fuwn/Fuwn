@@ -2,7 +2,7 @@
 
 - <img alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/wave.gif?raw=1" width="20vw" /> Hi, I'm Sin.
 - <img alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning Unreal Engine 4.
-- <img alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/headbang.gif?raw=1" width="20vw" /> I usually work with full-stack Node.js (JS/ TS) and C++ for my day-job.
+- <img alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/headbang.gif?raw=1" width="20vw" /> I usually work with full-stack Node.js (JS/ TS) for my day-job.
 - <img alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/hmm.gif?raw=1" width="20vw" /> Sometimes, spend some of my freetime reversing software and making tools to assist me with that.
 - <img alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/happy.gif?raw=1" width="20vw" /> I also make Game Boy games using [GBDK](https://github.com/Zal0/gbdk-2020)!
 - <img alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Pronouns: [recursion](https://github.com/8cy/).
