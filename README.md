@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/computer.gif?raw=1" width="200vw" />
 
 - <img alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/wave.gif?raw=1" width="20vw" /> Hi, I'm Fuwn.
-- <img alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> Z80 Assembly for Game Boy development.
+- <img alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I am currently learning about the Z80 Assembly Instruction Set for Game Boy development.
 - <img alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/headbang.gif?raw=1" width="20vw" /> I work in the full-stack Node.js (JS/ TS) field for my day-job.
 - <img alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/hmm.gif?raw=1" width="20vw" /> I like to spend my free-time reversing software and/ or making tools to assist me with that.
 - <img alt="GIF" src="https://github.com/8cy/8cy/blob/master/assets/happy.gif?raw=1" width="20vw" /> I also make Game Boy games using [GBDK](https://github.com/Zal0/gbdk-2020)!
