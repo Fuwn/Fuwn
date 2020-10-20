@@ -6,7 +6,7 @@
 - <img alt="GIF" src="https://chipflip.files.wordpress.com/2014/11/enso-satori.gif" width="20vw" /> I like to spend my free-time reversing software and/ or making tools to assist me with that.
 <!-- - <img alt="GIF" src="https://github.com/fuwn/fuwn/blob/master/assets/happy.gif?raw=1" width="20vw" /> I also make Game Boy games using [GBDK](https://github.com/Zal0/gbdk-2020)! -->
 - <img alt="GIF" src="https://i.imgur.com/H0GUure.gif" width="20vw" /> Pronouns: [recursion](https://github.com/fuwn/).
-- <img alt="GIF" src="https://66.media.tumblr.com/da2ec3f0a1d8aeac0c6ff513f322e848/tumblr_pmo6n0Tlw51rv33k2o1_r1_500.gif" width="20vw" /> Fun fact: NaN.
+- <img alt="GIF" src="https://66.media.tumblr.com/da2ec3f0a1d8aeac0c6ff513f322e848/tumblr_pmo6n0Tlw51rv33k2o1_r1_500.gif" width="20vw" /> Fun fact: <a href="https://www.ameyalokare.com/rust/2017/10/12/rust-str-vs-String.html">Rust: str vs String</a>.
 
 <p align="center">
   <a href="https://github.com/fuwn" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
