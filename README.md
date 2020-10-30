@@ -12,7 +12,7 @@
   <a href="https://github.com/fuwn" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://gitlab.com/fuwn" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://discord.com/users/fun#1337" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/master/assets/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/_fuwn" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://twitter.com/xFuwn" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
   <a href="https://fuwn.me" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
   <a href="https://repl.it/@fuwn" target="_blank"><img src="https://repl.it/public/images/favicon.ico" width="30px" alt="site"></a> &nbsp; &nbsp;
   <a href="https://youtube.com/Fuwny" target="_blank"><img src="https://www.youtube.com/s/desktop/28b67e7f/img/favicon.ico" width="30px" alt="site"></a> &nbsp; &nbsp;
