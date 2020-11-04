@@ -31,7 +31,7 @@ $ cat learn-in-future.txt
 ```sql
 SELECT *
 FROM github_statistics.columns
-WHERE TABLE_NAME = 'fuwn'
+WHERE TABLE_NAME = 'fuwn' -- i barely use sql directly so forgive me if there is any mistakes in this.
 ```
 [![Fuwn's GitHub Statistics](https://github-readme-stats-fuwn.vercel.app/api?username=fuwn&show_icons=true&theme=alduin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
