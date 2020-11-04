@@ -20,6 +20,7 @@ $ cat learn-in-future.txt
 - <img alt="PNG" src="https://camo.githubusercontent.com/0d6b3ed90e1e72d522f78e7a424e5b22c08ee4d8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31622f4e696d2d6c6f676f2e706e67" width="20vw" /> [Nim](https://nim-lang.org/)
 - <img alt="PNG" src="https://camo.githubusercontent.com/32fc785f790caaa7caa02c88012612c59ec7b279/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f372f37652f446172742d6c6f676f2e706e672f37363870782d446172742d6c6f676f2e706e67" width="20vw" /> [Dart](https://dart.dev/)
 - <img alt="PNG" src="https://camo.githubusercontent.com/54cab734c3eb8a79b6d0f100f2fbf61dbc7bba57/68747470733a2f2f6368726973636f6e6c616e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30362f6861736b656c6c5f6c6f676f5f322e706e67" width="20vw" /> [Haskell](https://haskell.org/)
+- <img alt="PNG" src="https://www.purescript.org/img/favicon_clear-256.png" width="20vw" /> [PureScript](https://www.purescript.org/)
 
 <p align="center">
   <a href="https://github.com/fuwn" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
