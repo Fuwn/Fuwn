@@ -44,7 +44,6 @@ WHERE TABLE_NAME = 'fuwn'
   <a href="" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/master/assets/discord.svg" width="30px" alt="discord"></a> &nbsp; &nbsp;
   <a href="" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/master/assets/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
   <a href="" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WWW_logo_by_Robert_Cailliau.svg/1200px-WWW_logo_by_Robert_Cailliau.svg.png" width="30px" alt="site"></a> &nbsp; &nbsp;
-  <a href="" target="_blank"><img src="https://repl.it/public/images/favicon.ico" width="30px" alt="repl.it"></a> &nbsp; &nbsp;
   <a href="" target="_blank"><img src="https://www.youtube.com/s/desktop/28b67e7f/img/favicon.ico" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
 
