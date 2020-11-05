@@ -10,7 +10,7 @@ $ echo $FUWN
 <!-- - <img alt="GIF" src="https://github.com/fuwn/fuwn/blob/master/assets/happy.gif?raw=1" width="20vw" /> I also make Game Boy games using [GBDK](https://github.com/Zal0/gbdk-2020)! -->
 - <img alt="GIF" src="https://i.imgur.com/H0GUure.gif" width="20vw" /> Pronouns: [recursion](https://github.com/fuwn/).
 - <img alt="GIF" src="https://66.media.tumblr.com/da2ec3f0a1d8aeac0c6ff513f322e848/tumblr_pmo6n0Tlw51rv33k2o1_r1_500.gif" width="20vw" /> Fun fact/ tidbit: <a href="https://github.com/Rob--/memoryjs" target="_blank">memoryjs by Robert</a>.
-- <img alt="GIF" src="https://66.media.tumblr.com/da2ec3f0a1d8aeac0c6ff513f322e848/tumblr_pmo6n0Tlw51rv33k2o1_r1_500.gif" width="20vw" /> Last month's fact/ tidbit: <a href="https://www.ameyalokare.com/rust/2017/10/12/rust-str-vs-String.html" target="_blank">Rust: str vs String</a>
+- <img alt="GIF" src="https://media3.giphy.com/media/l3vRnoppYtfEbemBO/source.gif" width="20vw" /> Last month's fact/ tidbit: <a href="https://www.ameyalokare.com/rust/2017/10/12/rust-str-vs-String.html" target="_blank">Rust: str vs String</a>
 <br />
 
 ```sh
