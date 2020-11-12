@@ -16,16 +16,26 @@ $ echo $FUWN
 ```sh
 $ cat learn-in-future.txt
 ```
-<p>
-  <a href="http://ruby-lang.org/en" target="_blank"><img src="https://camo.githubusercontent.com/03bdef4595003706b22736ecde664a7c9ed39a4c/68747470733a2f2f626761737061726f74746f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30332f727562792d6c6f676f2e706e67" width="40px" alt="Ruby"></a> &nbsp; &nbsp;
-  <a href="https://crystal-lang.org/" target="_blank"><img src="https://camo.githubusercontent.com/0dd28495d661b30026e6d3792f3d4fd97900ac80/68747470733a2f2f6372797374616c2d6c616e672e6f72672f696d616765732f69636f6e2e706e67" width="40px" alt="Crystal"></a> &nbsp; &nbsp;
-  <a href="https://nim-lang.org/" target="_blank"><img src="https://camo.githubusercontent.com/0d6b3ed90e1e72d522f78e7a424e5b22c08ee4d8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31622f4e696d2d6c6f676f2e706e67" width="40px" alt="Nim"></a> &nbsp; &nbsp;
-  <a href="https://dart.dev/" target="_blank"><img src="https://camo.githubusercontent.com/32fc785f790caaa7caa02c88012612c59ec7b279/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f372f37652f446172742d6c6f676f2e706e672f37363870782d446172742d6c6f676f2e706e67" width="40px" alt="Dart"></a> &nbsp; &nbsp;
-  <a href="https://haskell.org/" target="_blank"><img src="https://camo.githubusercontent.com/54cab734c3eb8a79b6d0f100f2fbf61dbc7bba57/68747470733a2f2f6368726973636f6e6c616e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30362f6861736b656c6c5f6c6f676f5f322e706e67" width="40px" alt="Haskell"></a> &nbsp; &nbsp;
-  <a href="https://www.purescript.org/" target="_blank"><img src="https://www.purescript.org/img/favicon_clear-256.png" width="40px" alt="PureScript"></a> &nbsp; &nbsp;
-  <a href="https://amberframework.org/" target="_blank"><img src="https://pbs.twimg.com/profile_images/906897948239204355/UohH79go_400x400.jpg" width="40px" alt="Amber"></a> &nbsp; &nbsp;
-  <a href="https://rubyonrails.org/" target="_blank"><img src="https://rubyonrails.org/favicon.ico" width="40px" alt="Ruby on Rails"></a> &nbsp; &nbsp;
-</p>
+<details closed>
+<summary>Open to see languages.</summary>
+<ul>
+  <li><a href="http://ruby-lang.org/en"><img src="https://camo.githubusercontent.com/03bdef4595003706b22736ecde664a7c9ed39a4c/68747470733a2f2f626761737061726f74746f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30332f727562792d6c6f676f2e706e67" alt="Ruby" width="40px" /> Ruby</a></li>
+  <li><a href="https://crystal-lang.org/"><img src="https://camo.githubusercontent.com/0dd28495d661b30026e6d3792f3d4fd97900ac80/68747470733a2f2f6372797374616c2d6c616e672e6f72672f696d616765732f69636f6e2e706e67" alt="Crystal" width="40px" /> Crystal</a></li>
+  <li><a href="https://nim-lang.org/"><img src="https://camo.githubusercontent.com/0d6b3ed90e1e72d522f78e7a424e5b22c08ee4d8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31622f4e696d2d6c6f676f2e706e67" alt="Nim" width="40px" /> Nim</a></li>
+  <li><a href="https://dart.dev/"><img src="https://camo.githubusercontent.com/32fc785f790caaa7caa02c88012612c59ec7b279/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f372f37652f446172742d6c6f676f2e706e672f37363870782d446172742d6c6f676f2e706e67" alt="Dart" width="40px" /> Dart</a></li>
+  <li><a href="https://haskell.org/"><img src="https://camo.githubusercontent.com/54cab734c3eb8a79b6d0f100f2fbf61dbc7bba57/68747470733a2f2f6368726973636f6e6c616e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30362f6861736b656c6c5f6c6f676f5f322e706e67" alt="Haskell" width="40px" /> Haskell</a></li>
+  <li><a href="https://www.purescript.org/"><img src="https://www.purescript.org/img/favicon_clear-256.png" alt="PureScript" width="40px" /> PureScript</a></li>
+</ul>
+</details>
+
+<details closed>
+<summary>Open to see frameworks.</summary>
+<ul>
+  <li><a href="https://amberframework.org/"><img src="https://pbs.twimg.com/profile_images/906897948239204355/UohH79go_400x400.jpg" alt="" width="40px" /> Amber</a></li>
+  <li><a href="https://rubyonrails.org/"><img src="https://rubyonrails.org/favicon.ico" alt="Ruby on Rails" width="40px" /> Ruby on Rails</a></li>
+  <li><a href="https://flutter.dev/"><img src="https://www.neappoli.com/static/media/flutterImg.94b8139a.png" alt="Flutter" width="40px" /> Flutter</a></li>
+</ul>
+</details>
 <br />
 
 ```sql
