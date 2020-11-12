@@ -45,7 +45,8 @@ WHERE TABLE_NAME = 'fuwn'; -- i barely use sql directly so forgive me if there i
 ```
 [![Fuwn's GitHub Statistics](https://github-readme-stats-fuwn.vercel.app/api?username=fuwn&show_icons=true&theme=alduin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
+<img src="https://raw.githubusercontent.com/fuwn/fuwn/master/assets/blue.webp" alt="Blue" width="100px" />
+
 <hr />
 
 <p align="center">
