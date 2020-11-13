@@ -4,7 +4,7 @@
 $ echo $FUWN
 ```
 - <img alt="GIF" src="https://64.media.tumblr.com/44bc85ba4d4b8f6c660c61194a31f1c2/tumblr_pmo6n0Tlw51rv33k2o3_r1_250.gifv" width="20vw" /> Hi, I'm Fuwn.
-- <img alt="GIF" src="https://media1.giphy.com/media/3og0IDQPqb10ijWCfC/giphy.gif" width="20vw" /> I am currently learning... whatever I find cool (in <a href="https://www.rust-lang.org/" target="_blank">Rust</a> mainly).
+- <img alt="GIF" src="https://media1.giphy.com/media/3og0IDQPqb10ijWCfC/giphy.gif" width="20vw" /> I am currently learning... whatever I find cool (in <a href="https://www.rust-lang.org/" target="_blank">Rust</a> mainly). Also, <a href="https://www.latex-project.org/">LaTeX</a>!
 - <img alt="GIF" src="https://media1.giphy.com/media/3ohhwFhUCOXOJfuttC/giphy.gif" width="20vw" /> I work in the full-stack Node.js (JS/ TS) field for my day-job.
 - <img alt="GIF" src="https://chipflip.files.wordpress.com/2014/11/enso-satori.gif" width="20vw" /> I like to spend my free-time reversing software and/ or making tools to assist me with that.
 <!-- - <img alt="GIF" src="https://github.com/fuwn/fuwn/blob/master/assets/happy.gif?raw=1" width="20vw" /> I also make Game Boy games using [GBDK](https://github.com/Zal0/gbdk-2020)! -->
