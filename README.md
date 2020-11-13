@@ -45,7 +45,7 @@ WHERE TABLE_NAME = 'fuwn'; -- i barely use sql directly so forgive me if there i
 ```
 <details closed>
 <summary>Open to see trophies.</summary>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuwn&theme=monokai" alt="Trophy" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuwn&theme=alduin" alt="Trophy" /></a>
 </details>
 
 <details open>
