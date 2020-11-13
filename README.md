@@ -43,7 +43,17 @@ SELECT *;
 FROM github_statistics.columns;
 WHERE TABLE_NAME = 'fuwn'; -- i barely use sql directly so forgive me if there is any mistakes in this.
 ```
-[![Fuwn's GitHub Statistics](https://github-readme-stats-fuwn.vercel.app/api?username=fuwn&show_icons=true&theme=alduin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<details closed>
+<summary>Open to see trophies.</summary>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuwn&theme=monokai" alt="Trophy" /></a>
+</details>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fuwn.vercel.app/api?username=fuwn&show_icons=true&theme=alduin&count_private=true" alt="Fuwn's GitHub Statistics" /><a/>
+
+<details closed>
+<summary>Open to see language statistics.</summary>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fuwn.vercel.app/api/top-langs/?username=fuwn&layout=compact&theme=alduin" alt="Trophy" /></a>
+</details>
 
 <img src="https://raw.githubusercontent.com/fuwn/fuwn/master/assets/blue.webp" alt="Blue" width="100px" />
 
