@@ -48,7 +48,10 @@ WHERE TABLE_NAME = 'fuwn'; -- i barely use sql directly so forgive me if there i
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuwn&theme=monokai" alt="Trophy" /></a>
 </details>
 
+<details open>
+<summary>Open to see GitHub statistics.</summary>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fuwn.vercel.app/api?username=fuwn&show_icons=true&theme=alduin&count_private=true" alt="Fuwn's GitHub Statistics" /><a/>
+</details>
 
 <details closed>
 <summary>Open to see language statistics.</summary>
