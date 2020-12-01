@@ -70,6 +70,7 @@ WHERE TABLE_NAME = 'fuwn'; -- i barely use sql directly so forgive me if there i
   <a href="https://fuwn.me" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WWW_logo_by_Robert_Cailliau.svg/1200px-WWW_logo_by_Robert_Cailliau.svg.png" width="30px" alt="Site"></a> &nbsp; &nbsp;
   <a href="https://youtube.com/Fuwny" target="_blank"><img src="https://www.youtube.com/s/desktop/28b67e7f/img/favicon.ico" width="30px" alt="YouTube"></a> &nbsp; &nbsp;
   <a href="http://keys.gnupg.net/pks/lookup?op=get&search=0x36EA40253575A0FA" target="_blank"><img src="https://d2.alternativeto.net/dist/icons/gnupg_126380.png?width=64&height=64&mode=crop&upscale=false" width="30px" alt="GNU Privacy Guard"></a> &nbsp; &nbsp;
+  <a href="https://matrix.to/#/@fuwn:matrix.org" target="_blank"><img src="https://matrix.org/favicon-32x32.png" alt="Matrix"></a> &nbsp; &nbsp;
 </p>
 
 <!-- Socials -->
