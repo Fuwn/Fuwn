@@ -72,6 +72,7 @@ WHERE TABLE_NAME = 'fuwn'; -- i barely use sql directly so forgive me if there i
   <a href="http://keys.gnupg.net/pks/lookup?op=get&search=0x36EA40253575A0FA" target="_blank"><img src="https://d2.alternativeto.net/dist/icons/gnupg_126380.png?width=64&height=64&mode=crop&upscale=false" width="30px" alt="GNU Privacy Guard"></a> &nbsp; &nbsp;
   <a href="https://matrix.to/#/@fuwn:matrix.org" target="_blank"><img src="https://matrix.org/favicon-32x32.png" alt="Matrix"></a> &nbsp; &nbsp;
   <a href="https://strelizia.cc/M9g7uNQpQhuFc7zJoUPU8PVNU219Ydza.txt" target="_blank"><img src="https://freenode.net/static/img/logos/coloured-alphabg-sq-120.png" alt="Freenode" height="32px"></a> &nbsp; &nbsp;
+  <a href="https://strelizia.cc/wmo0FE5rO383lVSGW6gwECUod3PnLJGj.txt" target="_blank"><img src="https://www.quakenet.org/favicon.ico" alt="QuakeNet" height="32px"></a> &nbsp; &nbsp;
 </p>
 
 <!-- Socials -->
