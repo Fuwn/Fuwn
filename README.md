@@ -79,6 +79,6 @@ WHERE TABLE_NAME = 'fuwn'; -- i barely use sql directly so forgive me if there i
 [github]: https://github.com/fuwn
 [gitlab]: https://gitlab.com/fuwn
 [discord]: https://discord.com/users/fun#1337
-[twitter]: https://twitter.com/xFuwn
+[twitter]: https://twitter.com/fuwnzy
 [site]: https://fuwn.me
-[youtube]: https://youtube.com/Fuwny
+[youtube]: https://youtube.com/Fuwnzy
