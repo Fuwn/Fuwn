@@ -39,9 +39,9 @@ $ cat learn-in-future.txt
 <br />
 
 ```sql
-SELECT *;
-FROM github_statistics;
-WHERE TABLE_NAME = 'fuwn'; -- i barely use sql directly so forgive me if there is any mistakes in this.
+SELECT *
+FROM github_statistics
+WHERE TABLE_NAME = 'fuwn';
 ```
 <details closed>
 <summary>Open to see trophies.</summary>
