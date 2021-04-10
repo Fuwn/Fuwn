@@ -1,5 +1,7 @@
 **MySQL Error:** 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 42.
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rk400hlzn6yhdj7lcs3zsglko&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/BZDDteqq8hOJq/giphy.gif" width="200vw" />
 
 ```sh
