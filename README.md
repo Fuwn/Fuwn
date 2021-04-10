@@ -1,4 +1,4 @@
-**MySQL Error:** 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 42.
+**MySQL Error:** 1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE TABLE_NAME = 'fuwn'' at line 3.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rk400hlzn6yhdj7lcs3zsglko&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
@@ -45,7 +45,7 @@ $ cat learn-in-future.txt
 ```sql
 SELECT *
 FROM github_statistics
-WHERE TABLE_NAME = 'fuwn';
+WHERE TABLE_NAME = 'fuwn'
 ```
 <details closed>
 <summary>Open to see trophies.</summary>
