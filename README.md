@@ -78,6 +78,7 @@ WHERE TABLE_NAME = 'fuwn'
   <a href="https://strelizia.cc/M9g7uNQpQhuFc7zJoUPU8PVNU219Ydza.txt" target="_blank"><img src="https://freenode.net/static/img/logos/coloured-alphabg-sq-120.png" alt="Freenode" height="32px"></a> &nbsp; &nbsp;
   <a href="https://strelizia.cc/wmo0FE5rO383lVSGW6gwECUod3PnLJGj.txt" target="_blank"><img src="https://www.quakenet.org/favicon.ico" alt="QuakeNet" height="32px"></a> &nbsp; &nbsp;
 </p>
+<p align="center">If you are wanting to contact me, please do so through my linked contact email (on GitHub), thanks!</p>
 
 <!-- Socials -->
 [github]: https://github.com/fuwn
