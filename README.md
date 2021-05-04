@@ -11,7 +11,7 @@ $ echo $FUWN
 - <img alt="GIF" src="https://media1.giphy.com/media/3og0IDQPqb10ijWCfC/giphy.gif" width="20vw" /> I am currently working on [Whirl](https://whirlsplash.org).
 - <img alt="GIF" src="https://media1.giphy.com/media/3ohhwFhUCOXOJfuttC/giphy.gif" width="20vw" /> I work in the full-stack <a href="https://nodejs.org/en/">Node.js</a> (JS/ TS) field for my day-job.
 - <img alt="GIF" src="https://chipflip.files.wordpress.com/2014/11/enso-satori.gif" width="20vw" /> I like to spend my free-time exploring things that I find interesting.
-<!-- - <img alt="GIF" src="https://github.com/fuwn/fuwn/blob/master/assets/happy.gif?raw=1" width="20vw" /> I also make Game Boy games using [GBDK](https://github.com/Zal0/gbdk-2020)! -->
+<!-- - <img alt="GIF" src="https://github.com/fuwn/fuwn/blob/main/assets/happy.gif?raw=1" width="20vw" /> I also make Game Boy games using [GBDK](https://github.com/Zal0/gbdk-2020)! -->
 - <img alt="GIF" src="https://i.imgur.com/H0GUure.gif" width="20vw" /> Pronouns: [recursion](https://github.com/fuwn/).
 - <img alt="GIF" src="https://66.media.tumblr.com/da2ec3f0a1d8aeac0c6ff513f322e848/tumblr_pmo6n0Tlw51rv33k2o1_r1_500.gif" width="20vw" /> Fun fact/ tidbit: <a href="https://github.com/Rob--/memoryjs" target="_blank">memoryjs by Robert</a>.
 - <img alt="GIF" src="https://media3.giphy.com/media/l3vRnoppYtfEbemBO/source.gif" width="20vw" /> Last month's fact/ tidbit: <a href="https://www.ameyalokare.com/rust/2017/10/12/rust-str-vs-String.html" target="_blank">Rust: str vs String</a>
@@ -62,15 +62,15 @@ WHERE TABLE_NAME = 'fuwn'
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-fuwn.vercel.app/api/top-langs/?username=fuwn&layout=compact&theme=alduin" alt="Trophy" /></a>
 </details>
 
-<img src="https://raw.githubusercontent.com/fuwn/fuwn/master/assets/blue.webp" alt="Blue" width="100px" />
+<img src="https://raw.githubusercontent.com/fuwn/fuwn/main/assets/blue.webp" alt="Blue" width="100px" />
 
 <hr />
 
 <p align="center">
-  <a href="https://github.com/fuwn" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/master/assets/github.svg" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
+  <a href="https://github.com/fuwn" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/main/assets/github.svg" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
   <a href="https://gitlab.com/fuwn" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg" width="30px" alt="GitLab"></a> &nbsp; &nbsp;
-  <a href="https://discord.com/users/fun#1337" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/master/assets/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/xFuwn" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/master/assets/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
+  <a href="https://discord.com/users/fun#1337" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/main/assets/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/xFuwn" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/main/assets/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
   <a href="https://fuwn.me" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WWW_logo_by_Robert_Cailliau.svg/1200px-WWW_logo_by_Robert_Cailliau.svg.png" width="30px" alt="Site"></a> &nbsp; &nbsp;
   <a href="https://youtube.com/Fuwny" target="_blank"><img src="https://www.youtube.com/s/desktop/28b67e7f/img/favicon.ico" width="30px" alt="YouTube"></a> &nbsp; &nbsp;
   <a href="http://keys.gnupg.net/pks/lookup?op=get&search=0x36EA40253575A0FA" target="_blank"><img src="https://d2.alternativeto.net/dist/icons/gnupg_126380.png?width=64&height=64&mode=crop&upscale=false" width="30px" alt="GNU Privacy Guard"></a> &nbsp; &nbsp;
