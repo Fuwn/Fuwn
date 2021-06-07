@@ -62,7 +62,7 @@
 .. raw:: html
 
   <details closed>
-    <summary>Open to see trophies.</summary>
+    <summary>Open to see my trophies</summary>
     <br>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=fuwn&theme=alduin" alt="Trophy" />
@@ -70,7 +70,7 @@
   </details>
 
   <details open>
-    <summary>Open to see GitHub statistics.</summary>
+    <summary>Open to see my GitHub statistics</summary>
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats-fuwn.vercel.app/api?username=fuwn&show_icons=true&theme=alduin&count_private=true" alt="Fuwn's GitHub Statistics" />
@@ -78,12 +78,20 @@
   </details>
 
   <details closed>
-    <summary>Open to see language statistics.</summary>
+    <summary>Open to see my GitHub language statistics</summary>
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats-fuwn.vercel.app/api/top-langs/?username=fuwn&layout=compact&theme=alduin" alt="Trophy" />
     </a>
     <p>There is no way this isn't false, I write way more Rust than any of these...</p>
+  </details>
+  
+  <details open>
+    <summary>Open to see my GitHub streak</summary>
+    <br>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=fuwn&theme=dark" alt="GitHub Streak" />
+    </a>
   </details>
   
   <img src="https://raw.githubusercontent.com/fuwn/fuwn/main/assets/blue.webp" alt="Blue" width="100px">
