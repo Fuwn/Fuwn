@@ -29,7 +29,7 @@
 .. raw:: html
 
   <details closed>
-    <summary>Open to see languages.</summary>
+    <summary>Open to see some languages that I'm interested in learning</summary>
     <br>
     <ul>
       <li><a href="http://ruby-lang.org/en"><img src="https://camo.githubusercontent.com/03bdef4595003706b22736ecde664a7c9ed39a4c/68747470733a2f2f626761737061726f74746f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30332f727562792d6c6f676f2e706e67" alt="Ruby icon" width="40px" /> Ruby</a></li>
@@ -42,7 +42,7 @@
   </details>
   
   <details closed>
-    <summary>Open to see frameworks.</summary>
+    <summary>Open to see some frameworks that I'm interested in learning</summary>
     <br>
     <ul>
       <li><a href="https://amberframework.org/"><img src="https://pbs.twimg.com/profile_images/906897948239204355/UohH79go_400x400.jpg" alt="Amber icon" width="40px" /> Amber</a></li>
@@ -50,8 +50,10 @@
       <li><a href="https://flutter.dev/"><img src="https://www.neappoli.com/static/media/flutterImg.94b8139a.png" alt="Flutter icon" width="40px" /> Flutter</a></li>
     </ul>
   </details>
+
+  <i>To see a complete list of my interests visit <a href="https://fuwn.me/interests">fuwn.me/interests</a>.</i>
   
-  <br>
+  <br><br>
 
 .. code:: sql
 
