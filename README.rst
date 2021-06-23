@@ -15,7 +15,7 @@
   <ul>
     <li><img alt="GIF" src="https://64.media.tumblr.com/44bc85ba4d4b8f6c660c61194a31f1c2/tumblr_pmo6n0Tlw51rv33k2o3_r1_250.gifv" width="20vw" /> Hi, I'm <code>/ˈfʌn/</code>!</li>
     <li><img alt="GIF" src="https://media1.giphy.com/media/3og0IDQPqb10ijWCfC/giphy.gif" width="20vw" /> I am currently working on <a href="https://whirlsplash.org">Whirl</a>.</li>
-    <li><img alt="GIF" src="https://chipflip.files.wordpress.com/2014/11/enso-satori.gif" width="20vw" /> I like to spend my free-time exploring things that I find esoteric.</li>
+    <li><img alt="GIF" src="https://chipflip.files.wordpress.com/2014/11/enso-satori.gif" width="20vw" /> I like to spend my free-time learning esoteric technologies.</li>
     <li><img alt="GIF" src="https://i.imgur.com/H0GUure.gif" width="20vw" /> Pronouns: <a href="https://github.com/fuwn">recursion</a>
     <li><img alt="GIF" src="https://66.media.tumblr.com/da2ec3f0a1d8aeac0c6ff513f322e848/tumblr_pmo6n0Tlw51rv33k2o1_r1_500.gif" width="20vw" /> Fun fact/ tidbit: <a href="https://github.com/Rob--/memoryjs" target="_blank">memoryjs by Robert</a></li>
     <li><img alt="GIF" src="https://media3.giphy.com/media/l3vRnoppYtfEbemBO/source.gif" width="20vw" /> Last month's fact/ tidbit: <a href="https://www.ameyalokare.com/rust/2017/10/12/rust-str-vs-String.html" target="_blank">Rust: str vs String</a></li>
