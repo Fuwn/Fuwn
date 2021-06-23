@@ -64,7 +64,7 @@
 .. raw:: html
 
   <details closed>
-    <summary>Open to see my trophies</summary>
+    <summary>Open to see my GitHub trophies</summary>
     <br>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=fuwn&theme=alduin" alt="Trophy" />
