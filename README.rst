@@ -51,7 +51,7 @@
     </ul>
   </details>
 
-  <i>To see a complete list of my interests visit <a href="https://fuwn.me/interests">fuwn.me/interests</a>!</i>
+  <i>To see a complete list of my interests, visit <a href="https://fuwn.me/interests">fuwn.me/interests</a>!</i>
   
   <br><br>
 
