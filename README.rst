@@ -106,6 +106,8 @@
     <a href="https://strelizia.cc/wmo0FE5rO383lVSGW6gwECUod3PnLJGj.txt" target="_blank"><img src="https://www.quakenet.org/favicon.ico" alt="QuakeNet" height="32px"></a> &nbsp; &nbsp;
   </p>
   <p align="center">If you are wanting to contact me, please do so through my linked contact email (on GitHub), thanks!</p>
+  
+  <p align="center">Alternatively, you can contact me at <code>fuwn at protonmail dot com</code> or <code>fuwn at pm dot me</code></p>
 
 .. |spotify-github-profile| image:: https://spotify-github-profile.vercel.app/api/view?uid=rk400hlzn6yhdj7lcs3zsglko&cover_image=true&theme=novatorem
    :target: https://github.com/kittinan/spotify-github-profile
