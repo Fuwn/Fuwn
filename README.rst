@@ -5,6 +5,12 @@
 .. raw:: html
   
   <img src="https://media.giphy.com/media/BZDDteqq8hOJq/giphy.gif" alt="GIF" width="200vw" align="right">
+  
+  <p>
+    Time spent programming in JetBrains products since 2021. January. 19:
+    <img src="https://wakatime.com/badge/user/e6393c61-5de8-4166-8c6d-b3766ba5555f.svg"
+         target="https://wakatime.com/@e6393c61-5de8-4166-8c6d-b3766ba5555f">
+  </p>
 
 .. code:: sh
 
