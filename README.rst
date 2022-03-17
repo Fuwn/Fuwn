@@ -2,6 +2,13 @@
 
 |spotify-github-profile|
 
+Check out my larger projects that are not found on my profile:
+
+- `Whirlsplash <https://github.com/Whirlsplash>`_ — A tightly knit ecosystem of interconnected services built from the ground up and designed for `Worlds <https://en.wikipedia.org/wiki/Worlds_Chat>`_.
+- `The Senpy Club <https://github.com/senpy-club>`_ — A set of utilities for `cat-milk/Anime-Girls-Holding-Programming-Books <https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books>`_
+- `Divina <https://github.com/divinaland>`_ — A modern build system for assembly
+- `Usugata <https://github.com/Usugata>`_ — A Nintendo Homebrew and utility studio
+
 .. raw:: html
   
   <img src="https://media.giphy.com/media/BZDDteqq8hOJq/giphy.gif" alt="GIF" width="200vw" align="right">
