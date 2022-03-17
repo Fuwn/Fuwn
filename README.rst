@@ -8,6 +8,7 @@ Check out my larger projects that are not found on my profile:
 - `The Senpy Club <https://github.com/senpy-club>`_ — A set of utilities for `cat-milk/Anime-Girls-Holding-Programming-Books <https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books>`_
 - `Divina <https://github.com/divinaland>`_ — A modern build system for assembly
 - `Usugata <https://github.com/Usugata>`_ — A Nintendo Homebrew and utility studio
+- `GemRest <https://github.com/gemrest>`_ — Simple solutions designed for the Gemini protocol.
 
 .. raw:: html
   
