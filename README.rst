@@ -16,8 +16,7 @@ Check out my larger projects that are not found on my profile:
   
   <p>
     Time spent programming in JetBrains products since 2021. January. 19:
-    <img src="https://wakatime.com/badge/user/e6393c61-5de8-4166-8c6d-b3766ba5555f.svg"
-         target="https://wakatime.com/@e6393c61-5de8-4166-8c6d-b3766ba5555f">
+    <a href="https://wakatime.com/@e6393c61-5de8-4166-8c6d-b3766ba5555f"><img src="https://wakatime.com/badge/user/e6393c61-5de8-4166-8c6d-b3766ba5555f.svg" alt="Total time coded since Jan 19 2021" /></a>
   </p>
 
 .. code:: sh
