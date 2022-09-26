@@ -1,8 +1,11 @@
-#1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE username = 'fuwn'' at line 1
+
+.. code::
+
+  #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE username = 'fuwn'' at line 1
 
 |spotify-github-profile|
 
-Check out my larger projects that are not found on my profile:
+Check out some of my larger projects that are not found on my profile:
 
 - `Whirlsplash <https://github.com/Whirlsplash>`_ — A tightly knit ecosystem of interconnected services built from the ground up and designed for `Worlds <https://en.wikipedia.org/wiki/Worlds_Chat>`_.
 - `The Senpy Club <https://github.com/senpy-club>`_ — A set of utilities for `cat-milk/Anime-Girls-Holding-Programming-Books <https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books>`_
@@ -26,12 +29,10 @@ Check out my larger projects that are not found on my profile:
 .. raw:: html
 
   <ul>
-    <li>Hi, I'm <code>/ˈfʌn/</code>!</li>
-    <li>I am currently working on <a href="https://whirlsplash.org">Whirl</a>.</li>
+    <li>Hi, I'm <code>/ˈfʌn/</code>.</li>
+    <li>I am currently working on <a href="https://github.com/gemrest">GemRest</a>.</li>
     <li>I like to spend my free-time learning esoteric technologies.</li>
     <li>Pronouns: <a href="https://github.com/fuwn">recursion</a>
-    <li>Fun fact/ tidbit: <a href="https://github.com/Rob--/memoryjs" target="_blank">memoryjs by Robert</a></li>
-    <li>Last month's fact/ tidbit: <a href="https://www.ameyalokare.com/rust/2017/10/12/rust-str-vs-String.html" target="_blank">Rust: str vs String</a></li>
   </ul>
   <br>
 
@@ -64,7 +65,7 @@ Check out my larger projects that are not found on my profile:
     </ul>
   </details>
 
-  <i>To see a complete list of my interests, visit <a href="https://fuwn.me/interests">fuwn.me/interests</a>!</i>
+  <i>To see a complete list of my interests, visit <a href="https://fuwn.me/interests">fuwn.me/interests</a>.</i>
   
   <br><br>
 
@@ -107,16 +108,12 @@ Check out my larger projects that are not found on my profile:
 .. raw:: html
 
   <p align="center">
-    <a href="https://github.com/fuwn" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/main/assets/github.svg" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
+    <a href="https://github.com/Fuwn" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/main/assets/github.svg" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
     <a href="https://gitlab.com/fuwn" target="_blank"><img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="30px" alt="GitLab"></a> &nbsp; &nbsp;
     <a href="https://discord.com/users/fun#1337" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/main/assets/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
-    <a href="https://twitter.com/fuwnzy" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/main/assets/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
+    <a href="https://twitter.com/Fuwnr" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/main/assets/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
     <a href="https://fuwn.me" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WWW_logo_by_Robert_Cailliau.svg/1200px-WWW_logo_by_Robert_Cailliau.svg.png" width="30px" alt="Site"></a> &nbsp; &nbsp;
-    <a href="https://youtube.com/Fuwnzy" target="_blank"><img src="https://www.youtube.com/s/desktop/28b67e7f/img/favicon.ico" width="30px" alt="YouTube"></a> &nbsp; &nbsp;
-    <a href="http://keys.gnupg.net/pks/lookup?op=get&search=0x36EA40253575A0FA" target="_blank"><img src="https://d2.alternativeto.net/dist/icons/gnupg_126380.png?width=64&height=64&mode=crop&upscale=false" width="30px" alt="GNU Privacy Guard"></a> &nbsp; &nbsp;
     <a href="https://matrix.to/#/@fuwn:matrix.org" target="_blank"><img src="https://matrix.org/favicon-32x32.png" alt="Matrix"></a> &nbsp; &nbsp;
-    <a href="https://strelizia.cc/M9g7uNQpQhuFc7zJoUPU8PVNU219Ydza.txt" target="_blank"><img src="https://freenode.net/static/img/logos/coloured-alphabg-sq-120.png" alt="Freenode" height="32px"></a> &nbsp; &nbsp;
-    <a href="https://strelizia.cc/wmo0FE5rO383lVSGW6gwECUod3PnLJGj.txt" target="_blank"><img src="https://www.quakenet.org/favicon.ico" alt="QuakeNet" height="32px"></a> &nbsp; &nbsp;
   </p>
   <p align="center">If you are wanting to contact me, please do so through my linked contact email (on GitHub), thanks!</p>
   
