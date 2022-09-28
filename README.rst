@@ -12,6 +12,7 @@ Check out some of my larger projects that are not found on my profile:
 - `Divina <https://github.com/divinaland>`_ — A modern build system for assembly
 - `Usugata <https://github.com/Usugata>`_ — A Nintendo Homebrew and utility studio
 - `GemRest <https://github.com/gemrest>`_ — Simple solutions designed for the Gemini protocol.
+- `Capybara Markets <https://github.com/CapybaraMarkets>` — Financial software closely targeting the stock market and cryptocurrency
 
 .. raw:: html
   
