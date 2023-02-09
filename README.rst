@@ -112,7 +112,7 @@ Check out some of my larger projects that are not found on my profile:
     <a href="https://github.com/Fuwn" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/main/assets/github.svg" width="30px" alt="GitHub"></a> &nbsp; &nbsp;
     <a href="https://gitlab.com/fuwn" target="_blank"><img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="30px" alt="GitLab"></a> &nbsp; &nbsp;
     <a href="https://discord.com/users/fun#1337" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/main/assets/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
-    <a href="https://twitter.com/Fuwnr" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/main/assets/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
+    <a href="https://twitter.com/Fuwned" target="_blank"><img src="https://github.com/fuwn/fuwn/blob/main/assets/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
     <a href="https://fuwn.me" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WWW_logo_by_Robert_Cailliau.svg/1200px-WWW_logo_by_Robert_Cailliau.svg.png" width="30px" alt="Site"></a> &nbsp; &nbsp;
     <a href="https://matrix.to/#/@fuwn:matrix.org" target="_blank"><img src="https://matrix.org/favicon-32x32.png" alt="Matrix"></a> &nbsp; &nbsp;
   </p>
