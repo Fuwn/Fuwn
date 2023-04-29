@@ -5,7 +5,7 @@
 
 |spotify-github-profile| |moe-counter|
 
-Check out some of my larger projects that are not found on my profile:
+Check out some of my larger projects that are not found on my profile (I dont't keep important things on my personal profile):
 
 - `Whirlsplash <https://github.com/Whirlsplash>`_ — A tightly knit ecosystem of interconnected services built from the ground up and designed for `Worlds <https://en.wikipedia.org/wiki/Worlds_Chat>`_.
 - `The Senpy Club <https://github.com/senpy-club>`_ — A set of utilities for `cat-milk/Anime-Girls-Holding-Programming-Books <https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books>`_
