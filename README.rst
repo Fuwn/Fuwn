@@ -3,7 +3,9 @@
 
   #1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE username = 'fuwn'' at line 1
 
-|spotify-github-profile| |moe-counter|
+.. raw:: html
+
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=rk400hlzn6yhdj7lcs3zsglko&cover_image=true&theme=novatorem" align="right">
 
 Check out some of my larger projects that are not found on my profile (I don't keep important things on my personal profile):
 
