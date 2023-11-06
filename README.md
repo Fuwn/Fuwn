@@ -17,7 +17,5 @@
   </a>
 </details>
 
-<img src="https://count.getloli.com/get/@stXNngjLmpLGVutD?theme=rule34" width="0">
-  
-[spotify-github-profile]: https://spotify-github-profile.vercel.app/api/view?uid=rk400hlzn6yhdj7lcs3zsglko&cover_image=true&theme=novatorem
-[moe-counter]: https://count.getloli.com/get/@stXNngjLmpLGVutD?theme=rule34
+<img src="https://count.getloli.com/get/@stXNngjLmpLGVutD?theme=rule34" width="0" align="right">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=rk400hlzn6yhdj7lcs3zsglko&cover_image=true&theme=novatorem" width="0" align="right">
