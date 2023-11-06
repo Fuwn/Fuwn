@@ -9,13 +9,5 @@
 - [Divina](https://github.com/divinaland) — Modern build system for assembly
 - [GemRest](https://github.com/gemrest) — Simple solutions designed for the Gemini protocol.
 
-<details closed>
-  <summary>GitHub Statistics</summary>
-  <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=fuwn&theme=dark" alt="GitHub Streak" />
-  </a>
-</details>
-
 <img src="https://count.getloli.com/get/@stXNngjLmpLGVutD?theme=rule34" width="0" align="right">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=rk400hlzn6yhdj7lcs3zsglko&cover_image=true&theme=novatorem" width="0" align="right">
