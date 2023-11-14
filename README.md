@@ -4,7 +4,7 @@
 
 > 七転び八起き
 
-- [Whirlsplash](https://github.com/Whirlsplash) — A tightly knit ecosystem of interconnected services built from the ground up and designed for [Worlds](https://en.wikipedia.org/wiki/Worlds_Chat).
+- [Whirlsplash](https://github.com/Whirlsplash) — A tightly knit ecosystem of interconnected services built from the ground up and designed for [Worlds](https://wiki.worlio.com/worldscom:worldsplayer).
 - [The Senpy Club](https://github.com/senpy-club) — Utilities for [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
 - [Divina](https://github.com/divinaland) — Modern build system for assembly
 - [GemRest](https://github.com/gemrest) — Simple solutions designed for the Gemini protocol.
