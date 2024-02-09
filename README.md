@@ -2,7 +2,7 @@
 
 <img src="https://shinobu.fuwn.workers.dev/shinobu" align="right" height="200vh">
 
-> 七転び八起き
+> 見ぬが花
 
 - [Whirlsplash](https://github.com/Whirlsplash) — A tightly knit ecosystem of interconnected services built from the ground up and designed for [Worlds](https://wiki.worlio.com/worldscom:worldsplayer).
 - [GemRest](https://github.com/gemrest) — Simple solutions designed for the Gemini protocol
