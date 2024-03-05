@@ -1,8 +1,8 @@
-<h1>🎎 /fən/</h1>
+<h1>• /fən/</h1>
 
 <img src="https://shinobu.fuwn.workers.dev/shinobu" align="right" height="200vh">
 
-> 見ぬが花
+> 시작이 반이다
 
 - [Whirlsplash](https://github.com/Whirlsplash) — A tightly knit ecosystem of interconnected services built from the ground up and designed for [Worlds](https://wiki.worlio.com/worldscom:worldsplayer).
 - [GemRest](https://github.com/gemrest) — Simple Solutions Designed for the Gemini Protocol
