@@ -1,4 +1,4 @@
-<h1>✍ /fən/</h1>
+<h1>✒ /fən/</h1>
 
 <img src="https://shinobu.fuwn.workers.dev/shinobu" align="right" height="200vh">
 
