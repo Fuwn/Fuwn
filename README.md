@@ -1,6 +1,6 @@
 <h1>✒ /fən/</h1>
 
-<img src="https://shinobu.fuwn.workers.dev/shinobu" align="right" height="200vh">
+<img src="https://i.imgur.com/MVp2ULn.png" align="right" height="225vh">
 
 > The letter "ə", known as schwa, represents the unstressed and neutral vowel sound in English, akin to the 'a' in "sofa".
 
