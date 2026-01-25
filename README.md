@@ -11,6 +11,10 @@ Teach principles, not formulas. Understand, don't memorise.
 - [The Senpy Club](https://github.com/senpy-club) `rust` `web` — Utilities for [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books).
 - [Divina](https://github.com/divinaland) `rust` `lua` — A modern build system for Assembly, compatible with a wide range of dialects and environments.
 
+<hr>
+
+Do you have a work opportunity available that intersects with my skill set? Please reach out to me at the email address displayed!
+
 <img src="https://count.getloli.com/get/@stXNngjLmpLGVutD" width="0" align="right">
 
 <!-- All rights reserved -->
