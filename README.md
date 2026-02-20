@@ -7,7 +7,7 @@
 Teach principles, not formulae. Understand, don't memorise.
 
 - [Whirlsplash](https://github.com/Whirlsplash) `rust` `go` `python` — A tightly knit ecosystem of interconnected services, built from the ground up, designed for [Worlds]([https://wiki.worlio.com/worldscom:worldsplayer](https://en.wikipedia.org/wiki/Worlds.com)).
-- [GemRest](https://github.com/gemrest) `rust` `go` `c++` `gleam` `typescript` — Simple solutions designed for the Gemini Protocol
+- [GemRest](https://github.com/gemrest) `rust` `go` `c` `c++` `gleam` `typescript` `gemini` `gopher` — Simple solutions designed for the Gemini protocol and the smolweb
 - [asa.news](https://asa.news) `rss` — A fast, minimal RSS reader for staying informed
 - [due.moe](https://due.moe) `anime` `manga` — The largest, multifaceted third-party AniList platform offering a bit of everything for everyone
 - [The Senpy Club](https://github.com/senpy-club) `rust` `web` — Utilities for [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
