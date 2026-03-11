@@ -4,7 +4,7 @@
 
 > The letter 'ə', known as schwa, represents the unstressed, neutral vowel sound in English, similar to the 'a' in "sofa".
 
-Teach principles, not formulae. Understand, don't memorise.
+This was once revealed to me in a dream.
 
 - [GemRest](https://github.com/gemrest) `rust` `go` `c` `cpp` `gleam` `smolweb` — Simple solutions designed for the Gemini protocol and the smolweb
 - [asa.news](https://asa.news) `rss` — A fast, minimal RSS reader for staying informed
