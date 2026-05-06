@@ -15,7 +15,7 @@ This was once revealed to me in a dream.
 
 <hr>
 
-Do you have a work opportunity that aligns with my skill set? Please reach out to me at the email address shown or on Matrix at [`fuwn:matrix.org`](https://matrix.to/#/@fuwn:matrix.org).
+Do you have a work opportunity that aligns with my skill set? Please reach out to me at the email address shown.
 
 <img src="https://count.getloli.com/get/@stXNngjLmpLGVutD" width="0" align="right">
 
