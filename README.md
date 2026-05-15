@@ -11,7 +11,7 @@ This was once revealed to me in a dream.
 - [due.moe](https://due.moe) `anime` `manga` — The largest, multifaceted third-party AniList platform offering a bit of everything for everyone
 - [Whirlsplash](https://github.com/Whirlsplash) `rust` `go` `python` — A tightly knit ecosystem of interconnected services, built from the ground up, designed for [Worlds]([https://wiki.worlio.com/worldscom:worldsplayer](https://en.wikipedia.org/wiki/Worlds.com)).
 - [The Senpy Club](https://github.com/senpy-club) `rust` `web` `anime` `manga` — Utilities for [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
-- [Divina](https://github.com/Fuwn/Divina) `rust` `lua` `assembly` — A modern build system for Assembly, compatible with a wide range of dialects and environments
+- [UtaForth](https://github.com/Fuwn/UtaForth) `assembly` `forth` `dos` — The smallest and cutest real programming language ever as of yet (289-byte 16-bit Forth)
 
 <hr>
 
