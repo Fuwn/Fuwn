@@ -1,4 +1,4 @@
-# 🌱 /fən/
+# 💖 /fən/
 
 > The letter 'ə', known as schwa, represents the unstressed, neutral vowel sound in English, similar to the 'a' in "sofa".
 
