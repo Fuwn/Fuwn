@@ -19,6 +19,15 @@ This was once revealed to me in a dream.
 - [`esp32forth-things`](https://github.com/Fuwn/esp32forth-things) `forth` `embedded` `esp32` — Libraries and tooling for ESP32forth (µEforth)
 - I've also ported [SwiftForth](https://www.forth.com/swiftforth/), the largest commercial Forth implementation, to AArch64! ([more information](https://fuwn.net/blog/649542cc/e2205a42))
 
+## Gemini
+
+- [Windmark](https://github.com/gemrest/windmark) `gemini` `rust` `smolweb` — Elegant & Highly Performant Async Gemini Server Framework for the Modern Age
+- [September](https://github.com/gemrest/september) `gemini` `rust` `smolweb` `web` — Simple & Efficient Gemini-to-HTTP Proxy
+- [Germ](https://github.com/gemrest/germ) `gemini` `rust` `smolweb` — The Definitive Gemini Protocol Toolkit
+- [Momoka](https://github.com/gemrest/momoka) `gemini` `gleam` `smolweb` — A Gemini-to-Gopher proxy that bridges the smolweb to even more smolweb
+- [Gigi](https://github.com/Fuwn/gigi) `finger` `go` `smolweb` — An honest Finger protocol server
+- More available at [GemRest](https://github.com/gemrest)!
+
 <hr>
 
 Do you have a work opportunity that aligns with my skill set? Please reach out to me at the email address shown.
