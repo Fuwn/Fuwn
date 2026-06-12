@@ -14,7 +14,7 @@ This was once revealed to me in a dream.
 
 ## Forth
 
-- [UtaForth](https://github.com/Fuwn/UtaForth) `forth` `assembly` `dos` — The smallest and cutest real programming language ever as of yet (286-byte 16-bit Forth)
+- [UtaForth](https://github.com/Fuwn/UtaForth) `forth` `assembly` `dos` — The smallest and cutest real programming language ever as of yet (263-byte 16-bit Forth)
 - [µEforth/ESP32forth](https://github.com/Fuwn/ueforth) `forth` `embedded` `esp32` — Apple Silicon support for µEforth/ESP32forth, an eForth-inspired implementation of Forth, bootstraped from a minimalist C kernel.
 - [`esp32forth-things`](https://github.com/Fuwn/esp32forth-things) `forth` `embedded` `esp32` — Libraries and tooling for ESP32forth (µEforth)
 - I've also ported [SwiftForth](https://www.forth.com/swiftforth/), the largest commercial Forth implementation, to AArch64! ([more information](https://fuwn.net/blog/649542cc/e2205a42))
