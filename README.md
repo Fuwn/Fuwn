@@ -4,11 +4,12 @@
 
 > The letter 'ə', known as schwa, represents the unstressed, neutral vowel sound in English, similar to the 'a' in "sofa".
 
-I build libraries, developer tools, and web services, primarily in Rust, Go, and TypeScript. I prefer software that's easy to understand and does its job with minimal overhead.
+I'm a software engineer building full-stack web products, Rust networking infrastructure, and developer tools, primarily in Rust, Go, and TypeScript. I also work on reinforcement learning, evaluations, and sandboxing for frontier AI models. I prefer software that's easy to understand and does its job with minimal overhead.
 
 - [GemRest](https://github.com/gemrest) `rust` `go` `c` `cpp` `gleam` `smolweb` — Simple solutions designed for the Gemini protocol and the smolweb
 - [asa.news](https://asa.news) `rss` — A fast, minimal RSS reader for staying informed
-- [due.moe](https://due.moe) `anime` `manga` — The largest, multifaceted third-party AniList platform offering a bit of everything for everyone
+- [due.moe](https://due.moe) `anime` `manga` — An AniList companion platform serving more than 10,000 monthly active users
+- [Yae](https://github.com/Fuwn/yae) `nix` `go` — A Nix dependency manager that pins sources in a single JSON file
 - [Whirlsplash](https://github.com/Whirlsplash) `rust` `go` `python` — A tightly knit ecosystem of interconnected services, built from the ground up, designed for [Worlds](https://en.wikipedia.org/wiki/Worlds.com).
 - [The Senpy Club](https://github.com/senpy-club) `rust` `web` `anime` `manga` — Utilities for [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
 
