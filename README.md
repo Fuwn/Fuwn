@@ -2,36 +2,37 @@
 
 <img src="https://i.imgur.com/MVp2ULn.png" align="right" height="255">
 
-> The letter 'ə', known as schwa, represents the unstressed, neutral vowel sound in English, similar to the 'a' in "sofa".
+I'm Fuwn, a software engineer building full-stack web products, Rust networking infrastructure, and developer tools, primarily in Rust, Go, and TypeScript. I also work on reinforcement learning, evaluations, and sandboxing for frontier AI models.
 
-I'm a software engineer building full-stack web products, Rust networking infrastructure, and developer tools, primarily in Rust, Go, and TypeScript. I also work on reinforcement learning, evaluations, and sandboxing for frontier AI models. I prefer software that's easy to understand and does its job with minimal overhead.
+I prefer software that's easy to understand and does its job with minimal overhead.
 
-- [GemRest](https://github.com/gemrest) `rust` `go` `c` `cpp` `gleam` `smolweb` — Simple solutions designed for the Gemini protocol and the smolweb
-- [asa.news](https://asa.news) `rss` — A fast, minimal RSS reader for staying informed
-- [due.moe](https://due.moe) `anime` `manga` — An AniList companion platform serving more than 10,000 monthly active users
-- [Yae](https://github.com/Fuwn/yae) `nix` `go` — A Nix dependency manager that pins sources in a single JSON file
-- [Whirlsplash](https://github.com/Whirlsplash) `rust` `go` `python` — A tightly knit ecosystem of interconnected services, built from the ground up, designed for [Worlds](https://en.wikipedia.org/wiki/Worlds.com).
-- [The Senpy Club](https://github.com/senpy-club) `rust` `web` `anime` `manga` — Utilities for [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+## Selected Work
 
-## Forth
+- [due.moe](https://due.moe) — An AniList companion platform with more than 10,000 monthly active users
+- [asa.news](https://asa.news) — A fast, minimal RSS reader
+- [Windmark](https://github.com/gemrest/windmark) — The async Gemini server framework that my capsule runs on
+- [September](https://github.com/gemrest/september) — The Gemini-to-HTTP proxy that serves my capsule on the web
+- [Yae](https://github.com/Fuwn/yae) — A Nix dependency manager that pins sources in a single JSON file
+- [My Rust crates](https://crates.io/users/Fuwn?sort=downloads) — More than 175,000 downloads
 
-- [UtaForth](https://github.com/Fuwn/UtaForth) `forth` `assembly` `dos` — The smallest and cutest real programming language ever as of yet (260-byte 16-bit Forth)
-- [µEforth/ESP32forth](https://github.com/Fuwn/ueforth) `forth` `embedded` `esp32` — Apple Silicon support for µEforth/ESP32forth, an eForth-inspired implementation of Forth, bootstrapped from a minimalist C kernel.
-- [`esp32forth-things`](https://github.com/Fuwn/esp32forth-things) `forth` `embedded` `esp32` — Libraries and tooling for ESP32forth (µEforth)
-- I've also ported [SwiftForth](https://www.forth.com/swiftforth/), the largest commercial Forth implementation, to AArch64! ([more information](https://fuwn.net/blog/649542cc/e2205a42))
+## Small Systems
 
-## Gemini
+I port Forth systems to new hardware, program embedded boards, and build tools for the Gemini protocol and other smolweb protocols.
 
-- [Windmark](https://github.com/gemrest/windmark) `gemini` `rust` `smolweb` — Elegant & Highly Performant Async Gemini Server Framework for the Modern Age
-- [September](https://github.com/gemrest/september) `gemini` `rust` `smolweb` `web` — Simple & Efficient Gemini-to-HTTP Proxy
-- [Germ](https://github.com/gemrest/germ) `gemini` `rust` `smolweb` — The Definitive Gemini Protocol Toolkit
-- [Momoka](https://github.com/gemrest/momoka) `gemini` `gleam` `smolweb` — A Gemini-to-Gopher proxy that bridges the smolweb to even more smolweb
-- [Gigi](https://github.com/Fuwn/gigi) `finger` `go` `smolweb` — An honest Finger protocol server
-- More available at [GemRest](https://github.com/gemrest)!
+- [GemRest](https://github.com/gemrest) — My Gemini and smolweb projects, including Germ and Momoka
+- [Gigi](https://github.com/Fuwn/gigi) — A Finger protocol server
+- [UtaForth](https://github.com/Fuwn/UtaForth) — A 260-byte, 16-bit Forth
+- [µEforth/ESP32forth](https://github.com/Fuwn/ueforth) — Apple Silicon support for µEforth, plus [libraries and tooling](https://github.com/Fuwn/esp32forth-things)
+- [SwiftForth on AArch64](https://fuwn.net/blog/649542cc/e2205a42) — A port of the largest commercial Forth
+
+## Earlier Projects
+
+- [Whirlsplash](https://github.com/Whirlsplash) — An ecosystem of services for [Worlds](https://en.wikipedia.org/wiki/Worlds.com)
+- [The Senpy Club](https://github.com/senpy-club) — Utilities for [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
 
 <hr>
 
-Do you have a work opportunity that aligns with my skill set? Please reach out to me at the email address shown.
+For engineering work, collaboration, or an interesting systems problem, reach out to me at the email address shown on my profile.
 
 <img src="https://count.getloli.com/get/@stXNngjLmpLGVutD" width="0" align="right">
 
