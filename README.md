@@ -21,7 +21,7 @@ I port Forth systems to new hardware, program embedded boards, and build tools f
 
 - [GemRest](https://github.com/gemrest) — My Gemini and smolweb projects, including Germ and Momoka
 - [Gigi](https://github.com/Fuwn/gigi) — A Finger protocol server
-- [UtaForth](https://github.com/Fuwn/UtaForth) — A 260-byte, 16-bit Forth
+- [UtaForth](https://github.com/Fuwn/UtaForth) — A 246-byte, 16-bit Forth
 - [µEforth/ESP32forth](https://github.com/Fuwn/ueforth) — Apple Silicon support for µEforth, plus [libraries and tooling](https://github.com/Fuwn/esp32forth-things)
 - [SwiftForth on AArch64](https://fuwn.net/blog/649542cc/e2205a42) — A port of the largest commercial Forth
 
